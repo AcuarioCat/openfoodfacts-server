@@ -1051,8 +1051,8 @@ pt:Cervejas
 ro:Beri, Bere
 rs:Pivo
 ru:пиво
-se:Öl
-sv:Öler
+se:Vuola
+sv:Öler, Öl
 zh:啤酒
 en-GB:Beer
 ang:Bēor
@@ -2803,8 +2803,7 @@ nl:Frisdranken
 pl:Napoje gazowane
 pt:Sodas, bebidas refrescantes, bebidas refrescantes com gazozo
 ro:Băuturi carbogazoase, Bauturi carbogazoase
-se:Läskedrycker, läskedryck
-sv:Läsk, Läskedrycker
+sv:Läsk, Läskedrycker, läskedryck
 th:น้ำอัดลม
 zh:汽水, 软性饮料, 苏打饮料
 wikidata:en:Q147538
@@ -3315,7 +3314,7 @@ nl_be:Vruchtensap, Fruitsappen
 pl:Soki owocowe
 pt:Sumos de fruta
 ru:Фруктовые соки
-se:Fruktsafter, fruktsaft
+sv:Fruktsafter, fruktsaft
 th:น้ำผลไม้
 zh:水果汁, 果汁
 pnns_group_2:en:Fruit juices
@@ -4980,7 +4979,7 @@ la:Camellia sinensis
 nl:Theeën, Thee
 pt:Chás
 ru:Чай
-se:Teer, te
+sv:Teer, te
 th:ชา
 zh:茶
 wikidata:en:Q6097
@@ -5701,7 +5700,7 @@ it:Acque, acqua, acque in bottiglia, acqua in bottiglia
 nl:Waters, Water
 pt:Águas, águas engarrafadas, água engarrafada
 ru:Вода
-se:Vatten
+sv:Vatten
 th:น้ำดื่ม
 zh:水
 wikidata:en:Q283
@@ -6651,8 +6650,7 @@ nl:Wijnen, Wijn
 pl:Wina
 pt:Vinhos
 ru:Вина, Вино
-se:Viner, vin
-sv:Viner
+sv:Viner, vin
 th:ไวน์
 zh:葡萄酒
 wikidata:en:Q282
@@ -22314,6 +22312,12 @@ fr:Shortbread
 nl:Shortbread
 wikidata:en:Q652695
 
+#almond biscuits from Italy
+<en:Biscuits
+en:Cantucci, cantuccini
+fr:Cantucci, cantuccini
+it:Cantucci, cantuccini
+
 <en:Biscuits
 en:Speculoos, Speculoos biscuit
 de:Speculoos
@@ -22394,7 +22398,6 @@ pl:Chleb, pieczywo
 pt:Pães, pão
 ro:Pâini, Pâine
 ru:Хлеб
-se:Bröd
 sv:Bröd
 th:กลุ่มผลิตภัณฑ์ขนมปัง
 zh:面包
@@ -24188,7 +24191,6 @@ nl:Chocoladeproducten
 pl:Czekolada, Produkty czekoladowe
 pt:Chocolates, produtos com chocolate
 ru:Шоколад, шоколадные продукты
-se:Choklad
 sv:Choklad, Chokladprodukter
 th:ช็อกโกแลต
 zh:巧克力
@@ -24224,7 +24226,6 @@ pl:Czekolada mleczna
 pt:Chocolates de leite, chocolate de leite
 ro:Ciocolată cu lapte
 ru:Молочный шоколад, Шоколад молочный
-se:Mjölkchoklad
 sv:Mjölkchoklad
 zh:牛奶巧克力
 wikidata:en:Q2164820
@@ -24311,7 +24312,7 @@ fr:Chocolats au lait aux amandes
 hu:Tejes csokoládé mandulával
 it:Cioccolato al latte con mandorle
 nl:Melkchocola met amandelen
-se:Mjölkchoklad med mandlar
+sv:Mjölkchoklad med mandlar
 
 <en:Chocolates
 en:Chocolates with almonds
@@ -24323,7 +24324,7 @@ hu:Mandulás csokoládék
 it:Cioccolato alle mandorle
 nl:Amandelchocoladen
 ru:Шоколад с миндалём
-se:Choklad med mandlar, choklad med mandel
+sv:Choklad med mandlar, choklad med mandel
 
 <en:Chocolates
 en:Toblerone milk cholcolate bar w nougat
@@ -24364,7 +24365,7 @@ hu:Fehércsokoládék
 it:Cioccolati bianchi, Cioccolato bianco
 nl:Witte chocoladen
 pl:Czekolada biała
-se:Vit choklad
+sv:Vit choklad
 zh:白巧克力
 wikidata:en:Q742385
 
@@ -24393,10 +24394,16 @@ hu:Fehér csokoládé kókusszal
 it:Cioccolato bianco al cocco
 
 <en:White chocolates
+<en:Chocolates with hazelnuts
 en:White chocolates with hazelnuts
 de:Weiße Schokoladen mit Haselnüssen
 fr:Chocolats blancs aux noisettes
 nl:Witte chocola met hazelnoten
+
+<en:White chocolates
+<en:Chocolates with almonds
+en:White chocolates with almonds
+fr:Chocolats blancs aux amandes
 
 <en:White chocolates
 <en:Filled chocolates
@@ -24512,7 +24519,7 @@ nl:Pure chocolades
 pl:Czekolada deserowa, czekolada ciemna
 pt:Chocolates amargos
 ru:Тёмный шоколад
-se:Mörk choklad
+sv:Mörk choklad
 th:ดาร์กช็อกโกแลต
 zh:黑巧克力
 wikidata:en:Q2366206
@@ -24548,7 +24555,7 @@ hu:Fekete csokoládék madulával
 it:Cioccolato fondente alle mandorle
 nl:Pure chocola met amandel
 ru:Тёмный шоколад с миндалём
-se:Mörk choklad med mandlar, Mörk choklad med mandel
+sv:Mörk choklad med mandlar, Mörk choklad med mandel
 
 <en:Chocolates with hazelnuts
 <en:Dark chocolates
@@ -24877,7 +24884,7 @@ fi:suklaatryffelit
 fr:Truffes en chocolat, truffe en chocolat, truffes de chocolat, truffe de chocolat, truffes chocolatées
 it:Tartufi al cioccolato, tartufo al cioccolato
 nl:Chocolade truffels
-se:Chokladtryffel
+sv:Chokladtryffel
 wikidata:en:Q1063560
 
 <en:Bonbons
@@ -24983,7 +24990,6 @@ it:Caramelle
 nl:Snoep
 nl_be:Snoep
 pt:Bombons, doces
-se:Godis
 sv:Godis, Sötsaker
 th:ลูกอม
 zh:糖果
@@ -26686,7 +26692,7 @@ nl:Rijst
 pl:Ryże
 pt:Arrozes
 ru:Рис
-se:Ris
+sv:Ris
 zh:米
 wikidata:en:Q161426
 
@@ -27624,8 +27630,7 @@ nl_be:Zuivelproducten
 pl:Nabiał, Produkty mleczne
 pt:Laticínios
 ru:Молочные продукты
-se:Mejeriprodukt
-sv:Mejeriprodukter, Mjölkprodukter.
+sv:Mejeriprodukter, Mejeriprodukt, Mjölkprodukter
 th:ผลิตภัณฑ์จากนม
 zh:乳製品, 奶制品
 wikidata:en:Q185217
@@ -27684,7 +27689,7 @@ hu:Kefir
 nl:Kefir
 ro:Kefir
 ru:Кефир
-se:Kefir
+sv:Kefir
 wikidata:en:Q185749
 ciqual_food_code:en:19865
 ciqual_food_name:en:Kefir
@@ -27844,8 +27849,7 @@ pl:Sery
 pt:Queijos
 ro:Brânzeturi, Brânză
 ru:Сыры
-se:Ostar, ost
-sv:Ost
+sv:Ostar, Ost
 th:ชีส
 zh:奶酪, 乳酪, 芝士, 起司
 ang:Cīese
@@ -30921,7 +30925,6 @@ it:Panne, panna
 nl:Romen
 pl:Śmietanki
 pt:Natas, nata
-se:Grädde
 sl:Smetana
 sv:Grädde
 pnns_group_2:en:Milk and yogurt
@@ -30933,7 +30936,7 @@ es:Nata sin lactosa
 fr:Crèmes sans lactose
 hu:Laktózmentes krémek
 nl:Lactosevrije room, Lactosevrije romen, Room zonder lactose, Romen zonder lactose
-se:Laktosfri grädde
+sv:Laktosfri grädde
 
 <en:Creams
 en:Whipped creams
@@ -31056,7 +31059,7 @@ fi:hapankermat
 fr:Crèmes aigres
 hu:Tejföl, tejfel
 nl:Zure romen
-se:Gräddfil
+sv:Gräddfil
 sl:Kisla smetana
 pnns_group_2:en:Milk and yogurt
 
@@ -31070,7 +31073,7 @@ fr:Smetana
 nl:Smetana
 pl:Śmietana
 ru:Сметана
-se:Smetana
+sv:Smetana
 wikidata:ru:Q326061
 
 <en:Smetana
@@ -31177,7 +31180,7 @@ pl:Masła, masło
 pt:Manteigas
 ro:Unt
 ru:масло сливочное, сливочное масло
-se:Smör
+sv:Smör
 wikidata:en:Q34172
 
 <en:Butters
@@ -31385,7 +31388,6 @@ nn:kvarg
 pl:Twaróg
 pt:quark
 ru:творог
-se:Kvarg
 sh:quark
 sk:Tvaroh
 sv:Kvarg
@@ -31554,7 +31556,6 @@ pl:Mleko
 pt:Leites
 ro:lăpturi
 ru:Молоко
-se:Mjölk
 sv:Mjölk
 th:กลุ่มผลิตภัณฑ์นม
 zh:奶
@@ -31686,7 +31687,7 @@ fr:Laits demi-écrémés, lait demi-écrémé
 it:Latte parzialmente scremato
 nl:Halfvolle melk
 pt:Leites semi-desnatados, leite semi-desnatado
-se:Mellanmjölk, Mellan mjölk
+sv:Mellanmjölk, Mellan mjölk
 wikidata:en:Q10581201
 
 <en:Semi-skimmed milks
@@ -31741,7 +31742,7 @@ it:Latte di mucca
 nl:Koemelk
 pt:Leites de vaca
 ro:Laptele de vacă, Lapte de vacă
-se:Komjölk
+sv:Komjölk
 
 <en:Milks
 en:Goat milks, goat milk
@@ -31753,7 +31754,7 @@ it:Latte di capra
 nl:Geitenmelk
 pt:Leites de cabra
 ro:Laptele de capră, Lapte de capră
-se:Getmjölk
+sv:Getmjölk
 
 <en:Goat milks
 <en:UHT Milks
@@ -31786,7 +31787,7 @@ es:Leche de oveja
 fr:Laits de brebis, Lait de brebis, Lait de brebis entier
 nl:Schapenmelk
 pt:Leites de ovelha
-se:Fårmjölk
+sv:Fårmjölk
 ciqual_food_code:en:19250
 ciqual_food_name:en:Sheep milk, whole
 ciqual_food_name:fr:Lait de brebis, entier
@@ -31837,7 +31838,7 @@ fi:maitojauheet
 fr:Laits en poudre, farines de lait, laits déshydratés
 it:Latte in polvere
 nl:Melkpoeders
-se:Mjölkpulver
+sv:Mjölkpulver
 wikidata:en:Q496696
 
 <en:Milk powders
@@ -31874,7 +31875,7 @@ fr:Laits entiers, lait entier
 it:Latte intero
 nl:Volle melken
 pt:Leites integrais, leite integral
-se:Standardmjölk
+sv:Standardmjölk
 wikidata:en:Q3374445
 
 <en:Whole milks
@@ -31896,6 +31897,10 @@ fr:Lait entier UHT
 ciqual_food_code:en:19023
 ciqual_food_name:en:Milk, whole, UHT
 ciqual_food_name:fr:Lait entier, UHT
+
+<en:Milks
+en:Microfiltered milks
+fr:Laits microfiltrés
 
 <en:Milks
 en:Homogenized milks, homogenized milk
@@ -31936,7 +31941,7 @@ es:Leches frescas
 fi:tuoreet maidot
 fr:Laits frais, lait frais
 nl:Verse melken
-se:Färsk mjölk
+sv:Färsk mjölk
 zh:鲜奶
 
 <en:Fresh milks
@@ -31963,7 +31968,7 @@ nl:UHT-melken
 pl:Mleko UHT
 pt:Leites UHT
 ru:Молоко ультрапастеризованное, ультрапастеризованное молоко
-se:H-mjölk, UHT-mjölk
+sv:H-mjölk, UHT-mjölk
 wikidata:en:Q13616188
 ciqual_food_code:en:19039
 ciqual_food_name:en:Milk, fat content unknown, UHT sterilized
@@ -32003,7 +32008,6 @@ it:Latte pastorizzato
 nl:Gepasteuriseerde melken, Gepasteuriseerde melk
 pt:Leites pasteurizados
 ru:Молоко пастеризованное, Пастеризованное молоко
-se:Pastöriserad mjölk
 sv:Pastöriserad mjölk
 wikidata:en:Q19344246
 
@@ -32088,7 +32092,7 @@ it:Latte senza lattosio
 nl:Lactose-vrije melk
 pl:mleko bez laktozy
 ru:молоко безлактозное, безлактозное молоко
-se:Laktosfri mjölk
+sv:Laktosfri mjölk
 wikidata:en:Q18404541
 
 <en:Milks
@@ -32175,7 +32179,7 @@ fi:kaurajuomat
 fr:Boissons à l'avoine, laits d'avoine, lait d’avoine, Boissons à base d'avoine
 it:Bevanda di avena
 nl:Havermoutmelken
-se:Havredrycker, havredryck
+sv:Havredrycker, havredryck
 zh:燕麦奶
 ciqual_food_code:en:18905
 ciqual_food_name:en:Oat-based drink, plain
@@ -32300,7 +32304,7 @@ fr:Boissons végétales de soja, Laits de soja, Lait de soja, Boissons au soja
 it:Bevanda di soia
 nl:Sojadranken
 pl:Napoje sojowe, napój sojowy
-se:Sojadrycker, sojadryck
+sv:Sojadrycker, sojadryck
 wikidata:en:Q192199
 ciqual_food_code:en:18900
 ciqual_food_name:en:Soy drink, plain
@@ -32398,7 +32402,7 @@ fr:Laits d'amande, lait d’amande, Boissons végétales d'amande, Boissons à l
 it:Latte di mandorla
 nl:Amandeldranken
 pl:Napoje migdałowe, napój migdałowy
-se:Mandeldrycker, mandeldryck
+sv:Mandeldrycker, mandeldryck
 wikidata:en:Q975953
 ciqual_food_code:en:18107
 ciqual_food_name:en:Almond drink
@@ -32699,13 +32703,12 @@ qu:Yugur
 ro:Iaurturi
 ru:Йогурт
 rw:Yawurute
-se:Yoghurtar, yoghurt
 sh:Jogurt
 sk:Jogurt
 sl:Jogurt
 sq:Jogurti
 sr:јогурт
-sv:Yoghurt
+sv:Yoghurtar, Yoghurt
 ta:தயிர்
 te:పెరుగు
 th:นมเปรี้ยว
@@ -33362,7 +33365,7 @@ es:Leches evaporadas, Leche evaporada, Leches condensadas, leche condensada
 fi:maitotiivisteet
 fr:Laits concentrés, Lait concentré
 nl:Verdikte melken
-se:Kondenserad mjölk
+sv:Kondenserad mjölk
 wikidata:en:Q13417087
 
 <fr:Laits concentrés
@@ -33671,7 +33674,7 @@ fr:Compotes de pomme, Compotes de pommes, Compote de pommes
 hu:Almakompótok
 it:Composte di mela
 nl:Appelcompotes
-se:Äppelmos
+sv:Äppelmos
 wikidata:en:Q618345
 ciqual_food_code:en:13038
 ciqual_food_name:en:Apple compote
@@ -34418,8 +34421,7 @@ it:Noci, Frutti a noce, Frutti a guscio, Frutta a guscio
 nl:Noten
 pt:Nozes, Nozes de frutos
 ro:Nuci
-se:Nötter, nöt
-sv:Nötter
+sv:Nötter, nöt
 th:ถั่วเปลือกแข็ง
 zh:坚果
 pnns_group_2:en:Nuts
@@ -34466,7 +34468,7 @@ it:Mandorle
 la:Prunus dulcis
 nl:Amandelen
 pt:Amêndoas, amêndoa
-se:Mandlar, mandel
+sv:Mandlar, mandel
 wikidata:en:Q39918
 
 <en:Almonds
@@ -34597,7 +34599,7 @@ fi:hasselpähkinät
 fr:Noisettes
 la:Corylus avellana
 nl:Hazelnoten
-se:Hasselnötter, hasselnöt
+sv:Hasselnötter, hasselnöt
 wikidata:en:Q578307
 season_in_country_fr:en: 9,10,11
 ciqual_food_code:en:15004
@@ -34681,7 +34683,7 @@ fi:makadamiapähkinäöljy
 fr:Noix de Macadamia
 la:Macadamia
 nl:Macadamia's
-se:Macadamianötter, macadamianöt
+sv:Macadamianötter, macadamianöt
 wikidata:en:Q310041
 ciqual_food_code:en:15027
 ciqual_food_name:en:Macadamia nut
@@ -34715,7 +34717,7 @@ la:Arachis hypogaea
 nl:Pinda's, Aardnoten
 pt:Amendoins, amendoim
 ru:Арахис
-se:Jordnötter, jordnöt
+sv:Jordnötter, jordnöt
 zh:花生
 wikidata:en:Q37383
 ciqual_food_code:en:15001
@@ -34787,7 +34789,7 @@ fr:Noix de pécan
 it:Noci pecan
 la:Carya illinoinensis
 nl:Pecannoten
-se:Pekannötter, pekannöt
+sv:Pekannötter, pekannöt
 wikidata:en:Q333877
 ciqual_food_code:en:15026
 ciqual_food_name:en:Pecan nut
@@ -34817,7 +34819,7 @@ fr:Pistaches, Pistache
 hu:Pisztácia
 la:Pistacia vera
 nl:Pistachenoten
-se:Pistaschnötter, pistaschnöt
+sv:Pistaschnötter, pistaschnöt
 wikidata:en:Q19958754
 
 <en:Pistachios
@@ -34855,7 +34857,7 @@ fr:Noix du Brésil, noix brésilienne, noix d'Amazonie, châtaigne du Brésil
 la:Bertholletia excelsa
 nl:Paranoten
 pt:Castanha do Pará
-se:Paranötter, paranöt
+sv:Paranötter, paranöt
 wikidata:en:Q81671
 ciqual_food_code:en:15008
 ciqual_food_name:en:Brazil nut
@@ -34900,7 +34902,7 @@ fi:saksanpähkinät
 fr:Noix
 la:Juglans
 nl:Walnoten
-se:Valnötter, valnöt
+sv:Valnötter, valnöt
 zh:核桃, 胡桃
 wikidata:en:Q208021
 
@@ -35070,7 +35072,7 @@ it:Burri di arachidi
 nl:Pindakazen
 nl_be:Pindakazen
 ru:Арахисовая паста, Арахисовые пасты
-se:Jordnötssmör
+sv:Jordnötssmör
 wikidata:en:Q147651
 ciqual_food_code:en:15202
 ciqual_food_name:en:Peanut butter or peanut paste
@@ -35237,7 +35239,6 @@ nl:Honingen
 pl:Miody
 pt:Méis
 ru:Мёд
-se:Honung
 sv:Honung
 th:น้ำผึ้ง
 zh:蜂蜜
@@ -35725,7 +35726,7 @@ nl:Vogeleieren
 pl:Jaja
 pt:Ovos, Ovos de aves
 ru:Яйцо птицы, Яйцо, Яйца
-se:Ägg
+sv:Ägg
 zh:鸟蛋, 蛋
 wikidata:en:Q659503
 pnns_group_2:en:Eggs
@@ -36283,7 +36284,7 @@ nl:Plantaardige oliën
 pl:Oleje roślinne, oleje pochodzenia roślinnego
 pt:Olios vegetais, olios baseados om plantas
 ru:Масло растительное, Растительное масло
-se:Vegetabiliska oljor, vegetabilisk olja
+sv:Vegetabiliska oljor, vegetabilisk olja
 th:น้ำมันพืช
 zh:植物油
 wikidata:en:Q4739805
@@ -36653,8 +36654,7 @@ hu:Olívaolajok
 it:Olio di oliva
 nl:Olijfoliën
 pt:Azeite de oliva
-se:Olivoljor, olivolja
-sv:olivoljor
+sv:Olivoljor, olivolja
 th:น้ำมันมะกอก
 zh:橄榄油
 wikidata:en:Q93165
@@ -39723,7 +39723,7 @@ fr:Cônes et batonnets surgelés
 nl:Diepvriesijsjes
 
 <en:Frozen foods
-<en:Cakes
+<en:Biscuits and cakes
 en:Frozen cakes and pastries, frozen cakes, frozen pastries
 de:Tiefkühlgebäck
 fi:Pakastekakut ja -leivonnaiset
@@ -39819,7 +39819,7 @@ pl:Mrożone dania gotowe
 <en:Fishes
 <en:Frozen seafood
 en:Frozen fishes
-de:Tiefkühlfisch
+de:Tiefkühlfisch, Tiefkühl-Fisch
 fi:kalapakasteet
 fr:Poissons surgelés
 it:Pesci surgelati
@@ -41111,7 +41111,7 @@ fr:Noix de coco
 nl:Kokosnoten
 nl_be:Kokosnoten
 pt:Coco
-se:Kokosnötter, kokosnöt
+sv:Kokosnötter, kokosnöt
 zh:椰子
 wikidata:en:Q3342808
 
@@ -42876,7 +42876,7 @@ hu:Só, Sók
 it:Sale
 nl:Zouten
 nl_be:Zouten
-se:Salter, salt
+sv:Salter, salt
 zh:盐类
 
 <en:Salts
@@ -43851,8 +43851,7 @@ nl:Sauzen
 pl:Sosy
 pt:Molhos
 ru:Соусы, Соус
-se:Såser, sås
-sv:Såser
+sv:Såser, sås
 th:กลุ่มผลิตภัณฑ์ไส้กรอก
 zh:酱汁
 pnns_group_2:en:Dressings and sauces
@@ -44529,7 +44528,7 @@ nl_be:Mosterds
 pl:Musztardy
 pt:Mostardas
 ro:Muștar
-se:Senap
+sv:Senap
 th:มัสตาร์ด
 wikidata:en:Q131748
 ciqual_food_code:en:11013
@@ -44555,7 +44554,7 @@ hu:Dijoni mustárok
 it:Senapi di Dijon
 nl:Dijonmosterds
 pl:Musztarda Dijon
-se:Dijonsenap
+sv:Dijonsenap
 wikidata:en:Q204226
 
 <en:Mustards
@@ -46780,7 +46779,7 @@ pl:Zupy
 pt:Sopas
 ro:Supe
 ru:Супы, Суп
-se:Soppor, soppa
+sv:Soppor, soppa
 th:ซุป
 zh:汤
 ciqual_food_code:en:25969
@@ -48859,7 +48858,6 @@ nl_be:Vlezen
 pl:Mięsa
 pt:Carnes
 ru:Мясо
-se:Kött
 sv:Kött
 th:ผลิตภัณฑ์จากเนื้อสัตว์
 zh:肉类, 肉
@@ -51447,7 +51445,6 @@ ru:курица
 rw:Inkoko
 sc:Pudda
 sd:ڪڪڙ
-se:Kycklingkött
 sh:kokoš
 sk:Kura
 sl:kokoš
@@ -51456,7 +51453,7 @@ so:Dooro
 sq:Pula
 sr:кокошка
 su:Hayam
-sv:Tamhöna
+sv:Kycklingkött, Tamhöna
 sw:Kuku
 ta:கோழி
 te:కోడి
@@ -51945,7 +51942,6 @@ it:Prosciutti, prosciutto
 nl:Hammen
 pl:Szynka
 pt:Presuntos
-se:Skinkor, skinka
 sv:Skinkor, Skinka
 th:แฮม
 zh:火腿
@@ -52540,7 +52536,7 @@ it:Salsicce, wurstel
 nl:Worsten
 pl:Parówki, kiełbaski
 pt:Salsichas
-se:Korvar, korv
+sv:Korvar, korv
 th:ไส้กรอก
 zh:香肠
 ciqual_food_code:en:30780
@@ -55289,6 +55285,15 @@ carbon_footprint_fr_foodges_ingredient:fr:Pâtes sèches
 # ingredient/fr:pâtes-alimentaires has 115 products 2019-05-20
 
 <en:Pastas
+en:Conchiglie
+de:Conchiglie
+es:Conchiglie
+fr:Conchiglie
+it:Conchiglie
+nl:Conchiglie
+wikidata:en:Q19962
+
+<en:Pastas
 en:Penne rigate
 de:Penne Rigate
 fi:penne rigate
@@ -55302,6 +55307,7 @@ de:Orecchiette
 fr:Orecchiette
 it:Orecchiette
 nl:Orecchiette
+wikidata:Q19969
 
 <en:Pastas
 en:Rigatoni
@@ -56287,6 +56293,12 @@ ciqual_food_name:en:Pastry (average)
 ciqual_food_name:fr:Pâtisserie (aliment moyen)
 
 <en:Pastries
+de:Nussecken
+
+<en:Pastries
+de:Mandelhörnchen
+
+<en:Pastries
 en:Churros
 de:Churros
 es:Churros
@@ -56300,7 +56312,6 @@ fr:Biscuit sec au lait
 ciqual_food_code:en:24030
 ciqual_food_name:en:Biscuit (cookie), with milk
 ciqual_food_name:fr:Biscuit sec au lait
-
 
 <en:Biscuits
 en:Crispy biscuit (cookie) with chocolate reduced fat
@@ -56378,23 +56389,6 @@ fr:Biscuit sec avec nappage au chocolat
 ciqual_food_code:en:24038
 ciqual_food_name:en:Biscuit (cookie), chocolate covering
 
-<en:Biscuits and cakes
-en:Wafer biscuit without filling
-fr:Gaufrette sans fourrage, Eventail sans fourrage
-ciqual_food_code:en:24300
-ciqual_food_name:en:Wafer biscuit without filling
-ciqual_food_name:fr:Gaufrette ou éventail sans fourrage
-
-<en:Biscuits and cakes
-en:Wafer biscuit filled with chocolate prepacked
-fr:Gaufrette fourrée au chocolat
-ciqual_food_code:en:24311
-ciqual_food_name:en:Wafer biscuit, filled with chocolate, prepacked
-
-<en:Biscuits and cakes
-en:wafer biscuit
-fr:Gaufrette
-
 
 # TODO FIXME
 
@@ -56409,13 +56403,6 @@ fr:Gaufrette
 #fr:Crêpe dentelle
 #ciqual_food_code:en:24370
 #ciqual_food_name:en:Wafer cookie
-
-<en:wafer biscuit
-en:plain wafer biscuit
-fr:Gaufrette
-ciqual_food_code:en:24313
-ciqual_food_name:en:Wafer biscuit, plain or vanilla flavoured, prepacked
-ciqual_food_name:fr:Gaufrette, fourrée vanille, préemballée
 
 <en:wafer biscuit
 en:Vanilla flavoured wafer biscuit
@@ -58166,6 +58153,7 @@ it:Crostacei
 nl:Kreeftachtigen
 pt:Crustáceos, crustáceo
 se:Kräftdjur
+sv:Kräftdjur
 ciqual_food_code:en:10043
 
 <en:Crustaceans
@@ -58356,8 +58344,7 @@ pl:Ryby
 pt:Peixe
 ro:Pești
 ru:Рыба
-se:Fiskar, fisk
-sv:Fisk
+sv:Fiskar, fisk
 zh:鱼类
 wikidata:en:Q600396
 
@@ -60398,8 +60385,7 @@ it:Spalmabili, prodotti spalmabili, preparazioni spalmabili
 nl:Smeerbare producten
 pt:Produtos para barrar, preparações para barrar
 ru:Намазки
-se:Smörgåspålägg
-sv:Bredbara pålägg, Bredbara smörgåspålägg
+sv:Bredbara pålägg, Bredbara smörgåspålägg, Smörgåspålägg
 zh:塗抺食品
 
 <en:Spreads
@@ -60424,7 +60410,7 @@ fi:maitorasva
 hu:Tejzsír
 nl:Melkvetten
 ru:Молочный жир
-se:Mjölkfett
+sv:Mjölkfett
 #fr:Graisse butyrique
 wikidata:en:Q909729
 
@@ -60547,8 +60533,7 @@ it:Confetture, Confettura
 nl:Jams, Confituren
 pl:Dżemy, konfitury, powidła
 pt:Geléias
-se:Sylt
-sv:Sylter
+sv:Sylter, sylt
 th:แยม
 zh:果酱
 wikidata:en:Q8752059
@@ -60607,12 +60592,12 @@ nl:Bosbessenjams
 en:Lingonberries jams
 de:Preiselbeeren Konfitüren
 fr:Confitures d'airelles rouges
-se:Lingonsylter, lingonsylt
+sv:Lingonsylter, lingonsylt
 
 <en:Berry jams
 en:Cloudberries jams
 fr:Confitures de plaquebières
-se:Hjortronsylter, htronsylt
+sv:Hjortronsylter, htronsylt
 
 <en:Berry jams
 en:Blackcurrant jams
@@ -60665,7 +60650,7 @@ fr:Confitures de framboises
 hu:Málna lekvár
 it:Confetture di lamponi
 nl:Frambozenjams
-se:Hallonsylter, hallonsylt
+sv:Hallonsylter, hallonsylt
 ciqual_food_code:en:31062
 ciqual_food_name:en:Jam, raspberry
 ciqual_food_name:fr:Confiture de framboise (extra ou classique)
@@ -60680,7 +60665,7 @@ fr:Confitures de fraises
 hu:Eper lekvár
 it:Confetture di fragole
 nl:Aardbeienjams, Aardbeienjam
-se:Jordgubbssylter, jordgubbssylt
+sv:Jordgubbssylter, jordgubbssylt
 ciqual_food_code:en:31024
 ciqual_food_name:en:Jam, strawberry
 ciqual_food_name:fr:Confiture de fraise (extra ou classique)
@@ -61030,17 +61015,19 @@ nl:Vruchtengeleien
 
 <en:Fruit jellies
 en:Raspberry jellies
+de:Himbeere Gelees
 fr:Gelées de framboises
 nl:Frambozengeleien
 
 <en:Fruit jellies
 en:Quince jellies
-de:Quitten-Gelee
+de:Quitten Gelees, Quitten-Gelee
 fr:Gelées de coings
 nl:Kweepeergeleien
 
 <en:Fruit jellies
 en:Blackberry jellies
+de:Brombeere Gelees
 es:Jaleas de moras
 fr:Gelées de mûres
 nl:Zwarte bessengeleien
@@ -61053,18 +61040,21 @@ nl:Vlierbessengeleien
 
 <en:Fruit jellies
 en:Guavas jellies
+de:Guave Gelees
 es:Jaleas de guayaba
 fr:Gelées de goyave
 nl:Guavegeleien
 
 <en:Fruit jellies
 en:Lemon jellies
+de:Zitrone Gelees
 es:Jaleas de limón
 fr:Gelées de citron
 nl:Citroengeleien
 
 <en:Fruit jellies
 en:Passion fruit jellies, Passionfruit jellies
+de:Passionsfrucht Gelees
 es:Jaleas de maracuyá, Jaleas de frutas de la pasión
 fr:Gelées de fruits de la passion, Gelées de maracudja
 nl:Passievruchtgeleien
@@ -61078,15 +61068,18 @@ nl:Aalbessengeleien
 
 <en:Fruit jellies
 en:Blackcurrants jellies
+de:Schwarze Johannisbeere Gelees
 fr:Gelées de cassis
 sv:Svartvinbärsgeléer, Svartvinbärsgelé
 
 <en:Fruit jellies
 en:Apples jellies
+de:Apfel Gelees
 fr:Gelées de pommes
 
 <en:Fruits jellies
 en:Sea-buckthorn jellies
+de:Sanddorn Gelees
 fr:Gelées d'argousiers
 
 <en:Plant-based spreads
@@ -61570,7 +61563,7 @@ it:Zucchero
 nl:Suiker
 nl_be:Suiker
 pt:Açucar
-se:Socker
+sv:Socker
 zh:糖类
 wikidata:en:Q11002
 pnns_group_2:en:Sweets
@@ -63204,7 +63197,7 @@ la:Daucus carota subsp. sativus
 nl:Wortels
 pl:Marchew
 ru:Морковь
-se:Morötter, morot
+sv:Morötter, morot
 
 <en:Carrots
 <en:Cooked vegetables
@@ -64211,7 +64204,7 @@ it:Patate
 la:Solanum tuberosum
 nl:Aardappelen
 nl_be:Aardappelen
-se:Potatisar, potatis
+sv:Potatisar, potatis
 pnns_group_2:en:Potatoes
 
 <en:Potatoes
@@ -65343,7 +65336,6 @@ la:Fabaceae, Leguminosae
 nl:Bonen
 pl:Strączkowe
 pt:Legumes
-se:Grönsaker, grönsak
 sv:ärtväxter, baljväxter
 th:ถั่วเมล็ดแห้ง
 wikidata:en:Q145909
@@ -65817,7 +65809,7 @@ ja:レンズマメ
 la:Lens culinaris
 nl:Linzen
 pt:Lentilhas, lentilha
-se:Linser, lins
+sv:Linser, lins
 wikidata:en:Q131226
 
 <en:Lentils
@@ -66866,15 +66858,22 @@ nl:Gevulde wavels
 ro:Vafe umplute cu miere
 
 <en:Biscuits
-en:Wafers, waffers
+en:Wafers, waffers, wafer biscuit
 de:Knusprige Waffeln
 fi:vohvelit
-fr:Gaufrettes
+fr:Gaufrettes, gaufrette
 hu:Ostya, ostyák
 it:Wafer
 nl:Waveltjes
 ro:Napilitane, Napolitană
 wikidata:en:Q1226651
+
+<en:Biscuits and cakes
+en:Plain wafers, Wafer biscuit without filling
+fr:Gaufrettes natures, Gaufrette sans fourrage, Eventail sans fourrage
+ciqual_food_code:en:24300
+ciqual_food_name:en:Wafer biscuit without filling
+ciqual_food_name:fr:Gaufrette ou éventail sans fourrage
 
 <en:Wafers
 en:Stuffed wafers
@@ -66888,7 +66887,7 @@ ro:Napolitane umplute
 
 <en:Stuffed wafers
 en:Caramel stuffed wafers
-de:Karamellgefüllte Knusprige Waffeln, Waffeln mit Karamell gefüllt
+de:Knusprige Waffeln mit Karamellfüllung, Karamellgefüllte Knusprige Waffeln, Waffeln mit Karamell gefüllt
 fi:kinuskilla täytetyt vohvelit
 fr:Gaufrettes fourrées au caramel
 hu:Karamellel töltött ostyák
@@ -66898,16 +66897,18 @@ ro:Napolitane umplute cu caramel, Napolitane cu caramel
 <en:Stuffed wafers
 <en:Chocolate biscuits
 en:Chocolate stuffed wafers
-de:Knusprige Waffeln gefüllt mit Schokolade
+de:Knusprige Waffeln mit Schokoladenfüllung, Knusprige Waffeln gefüllt mit Schokolade
 fi:suklaalla täytetyt vohvelit
-fr:Gaufrettes fourrées au chocolat
+fr:Gaufrettes fourrées au chocolat, Gaufrette fourrée au chocolat
 hu:Csokoládéval töltött ostya
 nl:Wafeltjes gevuld met chocola
 ro:Napolitane umplute cu ciocolată, Napolitane cu ciocolată
+ciqual_food_code:en:24311
+ciqual_food_name:en:Wafer biscuit, filled with chocolate, prepacked
 
 <en:Stuffed wafers
 en:Vanilla stuffed wafers
-de:Vanille-gefüllte Knusprige Waffeln
+de:Knusprige Waffeln mit Vanillefüllung, Vanille-gefüllte Knusprige Waffeln
 fi:vaniljalla täytetyt vohvelit
 fr:Gaufrettes fourrées à la vanille
 hu:Vaníliával töltött ostyák
@@ -67020,7 +67021,7 @@ nl:Olijven
 pt:Azeitonas
 ro:Măsline
 ru:Оливки, Маслины
-se:Oliver, oliv
+sv:Oliver, oliv
 wikidata:en:Q1621080
 pnns_group_2:en:Salty and fatty products
 
@@ -70154,7 +70155,7 @@ fr:Purées de pommes de terre, Purée de pommes de terre
 nl:Aardappelpureeën
 nl_be:Aardappelpuree
 ru:Пюре картофельное, Картофельное пюре
-se:Potatismos
+sv:Potatismos
 pnns_group_2:en:Potatoes
 ciqual_food_code:en:4047
 ciqual_food_name:en:Mashed potatoes (average)

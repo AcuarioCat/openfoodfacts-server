@@ -34,6 +34,7 @@ sk:obsahuje, Zloženie
 sl:vsebuje, Sestavine
 sv:innehåller, Ingredienser, innehåll
 tg:Таркиб
+th:ส่วนประกอบ
 tr:lcindekiler
 uz:Tarkib
 zh::配料
@@ -8832,7 +8833,7 @@ vegetarian:en:yes
 
 # nova:en:milk-powder
 <en:dairy
-en:milk powder, powdered milk
+en:milk powder, powdered milk, dry milk
 ca:Llet en pols
 cs:Sušené mléko
 da:mælkepulver
@@ -8883,7 +8884,7 @@ fr:produits laitiers en poudre
 fr:poudre de lait réhydratée
 
 <en:milk powder
-en:skimmed milk powder
+en:skimmed milk powder, nonfat dry milk
 bg:обезмаслено сухо мляко
 ca:llet desnatada en pols
 cs:Sušené odstředěné mléko
@@ -8916,7 +8917,7 @@ de:Karamellisiertes entrahmtes Milchpulver
 fi:karamellisoitu rasvaton maitojauhe
 
 <en:milk powder
-en:whole milk powder, dried whole milk, powdered whole milk, whole powdered milk
+en:whole milk powder, dried whole milk, powdered whole milk, whole powdered milk, whole dry milk, dry whole milk
 bg:пълномаслено мляко на прах
 ca:Llet sencera en pols, llet en pols sencera
 cs:sušené plnotučné mléko
@@ -9860,7 +9861,6 @@ ca:nata fresca, crema de llet fresca
 da:frisk fløde
 de:Sahne
 es:Crema fresca, nata fresca
-fi:ranskankerma
 fr:crème fraîche
 hu:friss tejszín
 nl:verse room
@@ -9874,9 +9874,11 @@ sv:Färsk grädde
 en:sour cream, soured cream, grade a cultured cream
 ar:كريمة حامضة
 ca:Crema agra, crema àcida
+da:syrnet fløde
 de:saure Sahne, Sauerrahm
+el:κρέμα γαλακτοσ
 eo:Acidkremo
-es:Crema agria, nata agria
+es:Crema agria, nata agria, nata ácida
 fa:خامه ترش
 fi:Hapankerma
 fr:Crème aigre, crème sure, crème acidulée
@@ -9888,7 +9890,8 @@ it:Panna acida
 ko:사워크림
 ms:Krim masam
 nl:Zure room
-pt:Creme azedo
+nn:romme
+pt:Creme azedo, nata ácida
 ru:Сметана
 sk:Kyslá smotana
 sv:Gräddfil
@@ -9970,7 +9973,7 @@ da:Cremefraiche, creme fraiche
 de:Crème fraîche
 es:Nata, crema de leche
 eu:Esne-gain gordina, esne-gain freskoa
-fi:crème fraîche
+fi:ranskankerma, crème fraîche
 fr:crème fraîche épaisse, crème fraîche fermentée
 he:קרם פרש
 hu:creme fraiche, crème fraîche
@@ -10009,7 +10012,7 @@ it:panna fresca pastorizzata
 ############################## SOURED MILK related stuff #######################
 
 <en:dairy
-en:soured milk
+en:soured milk, cultured milk, fermented milk
 bg:Кисело мляко
 ca:llet àcida
 cv:Турăх
@@ -18699,6 +18702,16 @@ carbon_footprint_fr_foodges_ingredient:fr:Vinaigre de vin
 carbon_footprint_fr_foodges_value:fr:4.2
 
 <en:vinegar
+en:white vinegar
+
+<en:vinegar
+en:distilled vinegar
+de:destillierter Essig
+es:vinagre destilado
+fr:vinaigre distillé
+
+<en:distilled vinegar
+<en:white vinegar
 en:white distilled vinegar
 de:weißer destillierter Essig
 es:vinagre blanco destilado
@@ -18725,6 +18738,7 @@ hu:borecet
 it:aceto di vino
 nl:wijnazijn
 pl:Ocet winny
+pt:vinagre de vinho
 ru:Винный уксус
 sv:vinsvinäger
 carbon_footprint_fr_foodges_ingredient:fr:Vinaigre de vin
@@ -24315,7 +24329,7 @@ hu:teljes kiőrlésű árpaliszt
 nl:volkoren gerstemeel
 
 <en:barley flour
-en:barley malt flour
+en:barley malt flour, malted barley flour
 de:Gerstenmalzmehl
 es:harina de malta de cebada
 fi:ohramallasjauho
@@ -27417,8 +27431,8 @@ vegetarian:en:yes
 # openfoodfacts:https://world.openfoodfacts.org/ingredient/corn-syrup 19402 products in 7 languages @2018-09-24
 
 <en:corn syrup
-nl:biologische gesproeidroogde maisstroop
-# ingredient/nl:biologische-gesproeidroogde-maisstroop has 1 product @2019-05-24
+en:corn syrup solids
+fr:solides de sirop de maïs
 
 fr:sirop d'amidon
 
@@ -31205,7 +31219,7 @@ wikidata:en:Q9189390
 
 #   GUM ARABIC  , also known as acacia gum, arabic gum, gum acacia, acacia, Senegal gum and Indian gum
 
-en:gum arabic, Acacia gum, E414, E-414, E 414, INS414, INS 414
+en:gum arabic, Acacia gum, gum acacia, E414, E-414, E 414, INS414, INS 414
 ar:صمغ عربي
 be:Гуміарабік
 bg:Гума арабика, Акациева гума
@@ -31863,7 +31877,7 @@ wikidata:en:Q190227
 # On ingredient lists the name with hydrogen in it, seems to be preferred (otherwise it resembles to much the cleaning salt?)
 
 <en:sodium carbonates
-en:sodium hydrogen carbonate, E500ii
+en:baking soda, sodium hydrogen carbonate, E500ii
 af:Natriumbikarbonaat
 ar:بيكربونات الصوديوم
 bg:Натриев бикарбонат
@@ -34421,6 +34435,7 @@ ca:Suc de llimona
 cs:Citronová šťáva
 da:citronsaft
 de:Zitronensaft
+el:χυμός λεμονιού
 es:zumo de limón, jugo de limón
 fi:sitruunamehu, sitruunatäysmehu
 fr:jus de citron
@@ -44506,15 +44521,17 @@ nl:gegrilde tomaat
 
 <en:tomato
 en:cherry tomato, cherry tomatoes
-da:körsbärstomater
-de:Kirschtomaten
-es:tomates cerezas, tomate cherry
+da:körsbärstomater, cocktailtomater
+de:Kirschtomaten, Cocktailtomaten
+el:τομάτες τσέρυ
+es:tomates cerezas, tomate cherry, tomates cherry
 fi:kirsikkatomaatti, kirsikkatomaatit
 fr:tomate cerise, tomates cerises, tomates cerise
 it:pomodorini, pomodorini ciliegia
-nl:kerstomaatjes, cherry tomaat, cheryytomaatjes
-pt:tomates cerejas
-sv:cherrytomater
+nl:kerstomaatjes, cherry tomaat, cheryytomaatjes, cherrytomaten
+nn:cocktailtomater
+pt:tomates cerejas, tomates cereja
+sv:cherrytomater, cocktailtomater
 # ingredient/fr:tomates-cerise has 432 products in 10 languages @2018-12-26
 
 <en:tomato
@@ -44610,6 +44627,7 @@ nl:tomatenblokjes in tomatensap van biologische oorsprong
 en:crushed tomato
 da:Flåede tomater, flåede tomater
 de:stückige Tomaten, Tomaten stückig
+el:πουρές τομάτας
 es:Puré de tomate
 fi:tomaattimurska
 fr:Purée de tomate
@@ -44648,7 +44666,12 @@ carbon_footprint_fr_foodges_value:fr:1.4
 <en:tomato
 fr:coulis de tomates, coulis de tomate
 de:Passierte Tomaten
+es:tomates tamizados
 it:passata di pomodoro
+nl:gezeefde tomaten
+nn:mosede tomater
+pt:tomates passados
+se:mosade tomater
 carbon_footprint_fr_foodges_ingredient:fr:Sauce tomate
 carbon_footprint_fr_foodges_value:fr:2.9
 # ingredient/fr:coulis-de-tomates has 165 products in 4 languages @2018-12-26
@@ -51459,12 +51482,14 @@ en:oregano
 ca:orenga, herba musca, roca morera
 da:oregano
 de:Oregano
+el:ρίξανη
 es:orégano
 fi:oregano
 fr:origan
 hu:oregánó, szurokfű
 it:origano
 nl:oregano
+nn:oregano
 pl:Oregano
 pt:orégãos
 ru:Орегано
@@ -70168,7 +70193,6 @@ en:raw kombucha
 de:Roher Kombucha
 fr:Combucha cru, Kombucha cru
 
-
 en:proteins mix
 fr:mélange de protéines
 it:Mix di proteine
@@ -70182,3 +70206,14 @@ en:fruits preparation
 fr:préparation de fruits
 it:preparazione di frutta
 
+en:tapioca syrup
+fr:sirop de tapioca
+vegan:en:yes
+vegetarian:en:yes
+from_palm_oil:en:no
+
+en:peanut butter
+fr:beurre d'arachide, beurre de cacahuète, beurre de cacahouète
+vegan:en:yes
+vegetarian:en:yes
+from_palm_oil:en:no
