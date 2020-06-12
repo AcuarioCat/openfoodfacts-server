@@ -18249,7 +18249,7 @@ cs:Slunečnicový olej
 da:solsikkeolie
 de:Sonnenblumenöl
 el:ηλιέλαιο, Ηλιέλαιο
-es:aceite de girasol
+es:aceite de girasol,aceite vegetal de girasol
 et:Päevalilleõli
 eu:ekilore-olio
 fa:روغن آفتاب‌گردان
@@ -18355,6 +18355,11 @@ es:aceite de girasol alto oleico
 fr:huile de tournesol à haute teneur en acide oléique, huile de tournesol à teneur élevée en acide oléique, huile de tournesol oléique
 it:olio di girasole alto oleico
 nl:high oleic zonnebloemolie
+
+<en:sunflower oil
+en:high oleic refined sunflower oil
+es:aceite refinado de girasol alto oleico
+
 
 # cold pressed in contrast to chemically treated
 
